@@ -59,7 +59,6 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 ![Abhijeet's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=abhijeetshaw&show_icons=true&theme=merko)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetshaw&theme=merko)
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=abhijeetshaw&theme=merko)
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeetshaw&theme=merko)
 <img src="https://github.com/arkodeepsen/abhijeetshaw/blob/output/github-contribution-grid-snake-dark.svg">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
