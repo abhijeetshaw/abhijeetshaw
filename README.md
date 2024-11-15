@@ -14,7 +14,7 @@
 • 💡 *Interested in web development,programming.*<br>
 • 🌍 **Websites:** *[Personal]✧(https://abhijeetshaw.github.io)  *<br>
 <br>
-![](https://raw.githubusercontent.com/abhijeetshaw/abhijeetshaw/main/2.jpg)
+![](https://raw.githubusercontent.com/abhijeetshaw/abhijeetshaw/main/batman.gif)
 
 
 ## <img src="https://media.giphy.com/media/x3Tmax9aaGpWbbekEW/giphy.gif" height="100"> **Connect With Me** <br>
