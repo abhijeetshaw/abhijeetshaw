@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="2.jpeg"> </p>
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Abhijeet.)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetshaw&theme=tokyonight)<img src="/vergil.gif" height="175" widght="393"> <br>
 *B. Tech (CS) freshman from India 🇮🇳. Passionate about coding and learning new things related to computer science.
