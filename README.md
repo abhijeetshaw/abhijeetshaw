@@ -1,9 +1,10 @@
-![](https://raw.githubusercontent.com/arkodeepsen/arkodeepsen/main/top.png)
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight)<img src="/vergil.gif" height="175" widght="393"> <br>
+
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Abhijeet.)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetshaw&theme=tokyonight)<img src="/vergil.gif" height="175" widght="393"> <br>
 *B. Tech (CS) freshman from India 🇮🇳. Passionate about coding and learning new things related to computer science.
 Apart from Computer Science and Technology 👨‍💻 I like playing video games 🎮 and music production 🎛️.* <br>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter) ![](https://komarev.com/ghpvc/?username=arkodeepsen&color=blueviolet&label=profile_views )
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetshaw&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetshaw" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetshaw" alt="abhijeetshaw" /></a> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -11,18 +12,8 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 • 👦 **Pronouns:** *He/Him.* -ˋˏ✄┈┈┈┈ <br>
 • 💪🏼 **Future Goals:** *Creating and applying unique/original ideas.*<br>
 • 🌱 *I’m currently expanding my knowledge about web development and AI/ML.*<br>
-• 💡 *Interested in web development, music production and game design.*<br>
-• 🌍 **Websites:** *[Personal](https://arkodeep.me) ✧ [R3vivalX](https://r3vivalx.uwu.ai) ✧ [R3vivalXMusic](https://music.uwu.ai)*<br>
-<br>
-![Trophies](https://github-profile-trophy.vercel.app/?username=arkodeepsen&theme=darkhub&row=1)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br>
-
-
-# <img src="https://media.giphy.com/media/Q59sPZFy7mxEaXpat0/giphy.gif" height="80"> **Currently Listening/Last Played**
-[![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)  <img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="80"/>
-[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31s5wub35o5yzy4vvhi6jakvirmy&width=640)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+• 💡 *Interested in web development,programming.*<br>
+• 🌍 **Websites:** *[Personal]✧(https://abhijeetshaw.github.io)  *<br>
 <br>
 
 
