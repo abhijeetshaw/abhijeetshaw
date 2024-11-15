@@ -1,8 +1,7 @@
 ![](https://raw.githubusercontent.com/abhijeetshaw/abhijeetshaw/main/2.jpg)
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=black&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Abhijeet.)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeetshaw&theme=tokyonight)<img src="/vergil.gif" height="175" widght="393"> <br>
-*B. Tech (CS) freshman from India 🇮🇳. Passionate about coding and learning new things related to computer science.
-Apart from Computer Science and Technology 👨‍💻 I like playing video games 🎮 and music production 🎛️.* <br>
+*B. Tech (CS) freshman from India 🇮🇳. Passionate about coding and learning new things related to computer science👨🏻‍💻.* <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetshaw&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetshaw" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetshaw" alt="abhijeetshaw" /></a> </p>
 
@@ -15,6 +14,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 • 💡 *Interested in web development,programming.*<br>
 • 🌍 **Websites:** *[Personal]✧(https://abhijeetshaw.github.io)  *<br>
 <br>
+![](https://raw.githubusercontent.com/abhijeetshaw/abhijeetshaw/main/2.jpg)
 
 
 ## <img src="https://media.giphy.com/media/x3Tmax9aaGpWbbekEW/giphy.gif" height="100"> **Connect With Me** <br>
