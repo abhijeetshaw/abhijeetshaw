@@ -19,10 +19,17 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 
 ## <img src="https://media.giphy.com/media/x3Tmax9aaGpWbbekEW/giphy.gif" height="100"> **Connect With Me** <br>
 <p align="left">
-<a href="https://twitter.com/mr_awesome_xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_awesome_xx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhijeet-shaw-2ab378206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-shaw-2ab378206/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/soulignite-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soulignite-" height="30" width="40" /></a>
+  <a href="https://twitter.com/mr_awesome_xx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_awesome_xx" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abhijeet-shaw-2ab378206/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-shaw-2ab378206/" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/c/soulignite-" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soulignite-" height="30" width="40" />
+  </a>
 </p>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="30"/> **Languages, Tools And Resources** <br>
