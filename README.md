@@ -26,7 +26,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-shaw-2ab378206/" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/soulignite-" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soulignite-" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soulignite" height="30" width="40" />
   </a>
 </p>
 
